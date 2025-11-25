@@ -508,6 +508,10 @@ section,
   position: relative;
 }
 
+.certificate-item h4 {
+  color: var(--contrast-color);
+}
+
 .section-title h2:before {
   content: "";
   position: absolute;
